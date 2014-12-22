@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5a50092-318a-4bde-a1c7-33207cd8cafa" name="Default" comment="" />
+    <ignored path="lab3_client.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lab3_client@start.coverage" NAME="start Coverage Results" MODIFIED="1416913040653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab3_client" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lab3_client" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="start.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.58925474" vertical-offset="0" max-vertical-offset="577">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding>
+                <element signature="e#160#271#0" expanded="false" />
+                <element signature="e#372#544#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/message.rb" />
+        <option value="$PROJECT_DIR$/start.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
+    <option name="y" value="24" />
+    <option name="width" value="683" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab3_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab3_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab3_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Ruby.start">
+    <configuration default="false" name="start" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="lab3_client" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/start.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.start" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5a50092-318a-4bde-a1c7-33207cd8cafa" name="Default" comment="" />
+      <created>1416870948674</created>
+      <updated>1416870948674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="683" y="24" width="683" height="744" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20031299" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3923841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2031722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39569536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/message.rb</url>
+          <line>171</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/start.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#160#271#0" expanded="false" />
+            <element signature="e#372#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="646">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#160#271#0" expanded="false" />
+            <element signature="e#372#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921">
+          <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+          <folding>
+            <element signature="n#SendException#0;n#!!top" expanded="false" />
+            <element signature="e#84#183#0" expanded="false" />
+            <element signature="n#SendPackageException#0;n#!!top" expanded="false" />
+            <element signature="e#264#396#0" expanded="false" />
+            <element signature="n#SendMessageException#0;n#!!top" expanded="false" />
+            <element signature="e#477#609#0" expanded="false" />
+            <element signature="n#SendFileException#0;n#!!top" expanded="false" />
+            <element signature="e#682#799#0" expanded="false" />
+            <element signature="n#BrokenException#0;n#!!top" expanded="false" />
+            <element signature="e#867#951#0" expanded="false" />
+            <element signature="n#BrokenPackageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenMessageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenFileException#0;n#!!top" expanded="false" />
+            <element signature="n#TimeoutException#0;n#!!top" expanded="false" />
+            <element signature="e#1168#1246#0" expanded="false" />
+            <element signature="n#HandlerDisconnectException#0;n#!!top" expanded="false" />
+            <element signature="e#1322#1400#0" expanded="false" />
+            <element signature="n#Package#0;n#!!top" expanded="false" />
+            <element signature="e#1523#1650#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1729#1784#0" expanded="false" />
+            <element signature="e#1824#2008#0" expanded="false" />
+            <element signature="e#1851#2002#2" expanded="false" />
+            <element signature="e#1422#3297#1" expanded="false" />
+            <element signature="e#2111#3297#0" expanded="false" />
+            <element signature="e#2186#2660#0" expanded="false" />
+            <element signature="e#2477#2614#0" expanded="false" />
+            <element signature="e#2666#2825#0" expanded="false" />
+            <element signature="e#2845#3282#0" expanded="false" />
+            <element signature="e#3102#3243#0" expanded="false" />
+            <element signature="n#Message#0;n#!!top" expanded="false" />
+            <element signature="e#3469#3761#0" expanded="false" />
+            <element signature="e#3549#3661#0" expanded="false" />
+            <element signature="e#3764#3803#0" expanded="false" />
+            <element signature="e#3806#3920#0" expanded="false" />
+            <element signature="e#3862#3898#0" expanded="false" />
+            <element signature="e#3960#4395#0" expanded="false" />
+            <element signature="e#4012#4389#0" expanded="false" />
+            <element signature="e#4028#4381#1" expanded="false" />
+            <element signature="e#4042#4126#1" expanded="false" />
+            <element signature="e#3318#5507#1" expanded="false" />
+            <element signature="e#4497#5507#0" expanded="false" />
+            <element signature="e#4593#5077#0" expanded="false" />
+            <element signature="e#4892#5029#0" expanded="false" />
+            <element signature="e#5083#5246#0" expanded="false" />
+            <element signature="e#5266#5491#0" expanded="false" />
+            <element signature="e#5300#5378#0" expanded="false" />
+            <element signature="n#TFile#0;n#!!top" expanded="false" />
+            <element signature="e#5563#5642#0" expanded="false" />
+            <element signature="e#5679#6189#0" expanded="false" />
+            <element signature="e#5731#6183#0" expanded="false" />
+            <element signature="e#5747#6175#1" expanded="false" />
+            <element signature="e#5761#5930#1" expanded="false" />
+            <element signature="e#5537#7458#1" expanded="false" />
+            <element signature="e#6291#7458#0" expanded="false" />
+            <element signature="e#6404#6882#0" expanded="false" />
+            <element signature="e#6697#6834#0" expanded="false" />
+            <element signature="e#6888#7048#0" expanded="false" />
+            <element signature="e#7116#7452#0" expanded="false" />
+            <element signature="e#7150#7342#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#160#271#0" expanded="false" />
+            <element signature="e#372#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4029">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#SendException#0;n#!!top" expanded="false" />
+            <element signature="e#84#183#0" expanded="false" />
+            <element signature="n#SendPackageException#0;n#!!top" expanded="false" />
+            <element signature="e#264#396#0" expanded="false" />
+            <element signature="n#SendMessageException#0;n#!!top" expanded="false" />
+            <element signature="e#477#609#0" expanded="false" />
+            <element signature="n#SendFileException#0;n#!!top" expanded="false" />
+            <element signature="e#682#799#0" expanded="false" />
+            <element signature="n#BrokenException#0;n#!!top" expanded="false" />
+            <element signature="e#867#951#0" expanded="false" />
+            <element signature="n#BrokenPackageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenMessageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenFileException#0;n#!!top" expanded="false" />
+            <element signature="n#TimeoutException#0;n#!!top" expanded="false" />
+            <element signature="e#1168#1246#0" expanded="false" />
+            <element signature="n#HandlerDisconnectException#0;n#!!top" expanded="false" />
+            <element signature="e#1322#1400#0" expanded="false" />
+            <element signature="n#Package#0;n#!!top" expanded="false" />
+            <element signature="e#1523#1650#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1729#1784#0" expanded="false" />
+            <element signature="e#1824#2008#0" expanded="false" />
+            <element signature="e#1851#2002#2" expanded="false" />
+            <element signature="e#1422#3297#1" expanded="false" />
+            <element signature="e#2111#3297#0" expanded="false" />
+            <element signature="e#2186#2660#0" expanded="false" />
+            <element signature="e#2477#2614#0" expanded="false" />
+            <element signature="e#2666#2825#0" expanded="false" />
+            <element signature="e#2845#3282#0" expanded="false" />
+            <element signature="e#3102#3243#0" expanded="false" />
+            <element signature="n#Message#0;n#!!top" expanded="false" />
+            <element signature="e#3469#3761#0" expanded="false" />
+            <element signature="e#3549#3661#0" expanded="false" />
+            <element signature="e#3764#3803#0" expanded="false" />
+            <element signature="e#3806#3920#0" expanded="false" />
+            <element signature="e#3862#3898#0" expanded="false" />
+            <element signature="e#3960#4395#0" expanded="false" />
+            <element signature="e#4012#4389#0" expanded="false" />
+            <element signature="e#4028#4381#1" expanded="false" />
+            <element signature="e#4042#4126#1" expanded="false" />
+            <element signature="e#3318#5507#1" expanded="false" />
+            <element signature="e#4497#5507#0" expanded="false" />
+            <element signature="e#4593#5077#0" expanded="false" />
+            <element signature="e#4892#5029#0" expanded="false" />
+            <element signature="e#5083#5246#0" expanded="false" />
+            <element signature="e#5266#5491#0" expanded="false" />
+            <element signature="e#5300#5378#0" expanded="false" />
+            <element signature="n#TFile#0;n#!!top" expanded="false" />
+            <element signature="e#5563#5642#0" expanded="false" />
+            <element signature="e#5679#6189#0" expanded="false" />
+            <element signature="e#5731#6183#0" expanded="false" />
+            <element signature="e#5747#6175#1" expanded="false" />
+            <element signature="e#5761#5930#1" expanded="false" />
+            <element signature="e#5537#7458#1" expanded="false" />
+            <element signature="e#6291#7458#0" expanded="false" />
+            <element signature="e#6404#6882#0" expanded="false" />
+            <element signature="e#6697#6834#0" expanded="false" />
+            <element signature="e#6888#7048#0" expanded="false" />
+            <element signature="e#7116#7452#0" expanded="false" />
+            <element signature="e#7150#7342#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#160#271#0" expanded="false" />
+            <element signature="e#372#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4115" max-vertical-offset="4556">
+          <caret line="259" column="0" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+          <folding>
+            <element signature="n#SendException#0;n#!!top" expanded="false" />
+            <element signature="e#84#183#0" expanded="false" />
+            <element signature="n#SendPackageException#0;n#!!top" expanded="false" />
+            <element signature="e#264#396#0" expanded="false" />
+            <element signature="n#SendMessageException#0;n#!!top" expanded="false" />
+            <element signature="e#477#609#0" expanded="false" />
+            <element signature="n#SendFileException#0;n#!!top" expanded="false" />
+            <element signature="e#682#799#0" expanded="false" />
+            <element signature="n#BrokenException#0;n#!!top" expanded="false" />
+            <element signature="e#867#951#0" expanded="false" />
+            <element signature="n#BrokenPackageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenMessageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenFileException#0;n#!!top" expanded="false" />
+            <element signature="n#TimeoutException#0;n#!!top" expanded="false" />
+            <element signature="e#1168#1246#0" expanded="false" />
+            <element signature="n#HandlerDisconnectException#0;n#!!top" expanded="false" />
+            <element signature="e#1322#1400#0" expanded="false" />
+            <element signature="n#Package#0;n#!!top" expanded="false" />
+            <element signature="e#1523#1650#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1729#1784#0" expanded="false" />
+            <element signature="e#1824#2008#0" expanded="false" />
+            <element signature="e#1851#2002#2" expanded="false" />
+            <element signature="e#1422#3297#1" expanded="false" />
+            <element signature="e#2111#3297#0" expanded="false" />
+            <element signature="e#2186#2660#0" expanded="false" />
+            <element signature="e#2477#2614#0" expanded="false" />
+            <element signature="e#2666#2825#0" expanded="false" />
+            <element signature="e#2845#3282#0" expanded="false" />
+            <element signature="e#3102#3243#0" expanded="false" />
+            <element signature="n#Message#0;n#!!top" expanded="false" />
+            <element signature="e#3469#3761#0" expanded="false" />
+            <element signature="e#3549#3661#0" expanded="false" />
+            <element signature="e#3764#3803#0" expanded="false" />
+            <element signature="e#3806#3920#0" expanded="false" />
+            <element signature="e#3862#3898#0" expanded="false" />
+            <element signature="e#3960#4395#0" expanded="false" />
+            <element signature="e#4012#4389#0" expanded="false" />
+            <element signature="e#4028#4381#1" expanded="false" />
+            <element signature="e#4042#4126#1" expanded="false" />
+            <element signature="e#3318#5507#1" expanded="false" />
+            <element signature="e#4497#5507#0" expanded="false" />
+            <element signature="e#4593#5077#0" expanded="false" />
+            <element signature="e#4892#5029#0" expanded="false" />
+            <element signature="e#5083#5246#0" expanded="false" />
+            <element signature="e#5266#5491#0" expanded="false" />
+            <element signature="e#5300#5378#0" expanded="false" />
+            <element signature="n#TFile#0;n#!!top" expanded="false" />
+            <element signature="e#5563#5642#0" expanded="false" />
+            <element signature="e#5679#6189#0" expanded="false" />
+            <element signature="e#5731#6183#0" expanded="false" />
+            <element signature="e#5747#6175#1" expanded="false" />
+            <element signature="e#5761#5930#1" expanded="false" />
+            <element signature="e#5537#7458#1" expanded="false" />
+            <element signature="e#6291#7458#0" expanded="false" />
+            <element signature="e#6404#6882#0" expanded="false" />
+            <element signature="e#6697#6834#0" expanded="false" />
+            <element signature="e#6888#7048#0" expanded="false" />
+            <element signature="e#7116#7452#0" expanded="false" />
+            <element signature="e#7150#7342#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.1.3/gems/ruby-debug-ide-0.4.23.beta1/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1354" max-vertical-offset="2975">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="127" column="3" selection-start-line="127" selection-start-column="3" selection-end-line="127" selection-end-column="3" />
+          <folding>
+            <element signature="n#SendException#0;n#!!top" expanded="false" />
+            <element signature="e#84#183#0" expanded="false" />
+            <element signature="n#SendPackageException#0;n#!!top" expanded="false" />
+            <element signature="e#264#396#0" expanded="false" />
+            <element signature="n#SendMessageException#0;n#!!top" expanded="false" />
+            <element signature="e#477#609#0" expanded="false" />
+            <element signature="n#SendFileException#0;n#!!top" expanded="false" />
+            <element signature="e#682#799#0" expanded="false" />
+            <element signature="n#BrokenException#0;n#!!top" expanded="false" />
+            <element signature="e#867#951#0" expanded="false" />
+            <element signature="n#BrokenPackageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenMessageException#0;n#!!top" expanded="false" />
+            <element signature="n#BrokenFileException#0;n#!!top" expanded="false" />
+            <element signature="n#TimeoutException#0;n#!!top" expanded="false" />
+            <element signature="e#1168#1246#0" expanded="false" />
+            <element signature="n#HandlerDisconnectException#0;n#!!top" expanded="false" />
+            <element signature="e#1322#1400#0" expanded="false" />
+            <element signature="n#Package#0;n#!!top" expanded="false" />
+            <element signature="e#1523#1650#0" expanded="false" />
+            <element signature="e#1653#1726#0" expanded="false" />
+            <element signature="e#1729#1784#0" expanded="false" />
+            <element signature="e#1824#2008#0" expanded="false" />
+            <element signature="e#1851#2002#2" expanded="false" />
+            <element signature="e#1422#3297#1" expanded="false" />
+            <element signature="e#2111#3297#0" expanded="false" />
+            <element signature="e#2186#2660#0" expanded="false" />
+            <element signature="e#2477#2614#0" expanded="false" />
+            <element signature="e#2666#2825#0" expanded="false" />
+            <element signature="e#2845#3282#0" expanded="false" />
+            <element signature="e#3102#3243#0" expanded="false" />
+            <element signature="n#Message#0;n#!!top" expanded="false" />
+            <element signature="e#3469#3761#0" expanded="false" />
+            <element signature="e#3549#3661#0" expanded="false" />
+            <element signature="e#3764#3803#0" expanded="false" />
+            <element signature="e#3806#3920#0" expanded="false" />
+            <element signature="e#3862#3898#0" expanded="false" />
+            <element signature="e#3960#4395#0" expanded="false" />
+            <element signature="e#4012#4389#0" expanded="false" />
+            <element signature="e#4028#4381#1" expanded="false" />
+            <element signature="e#4042#4126#1" expanded="false" />
+            <element signature="e#3318#5507#1" expanded="false" />
+            <element signature="e#4497#5507#0" expanded="false" />
+            <element signature="e#4593#5077#0" expanded="false" />
+            <element signature="e#4892#5029#0" expanded="false" />
+            <element signature="e#5083#5246#0" expanded="false" />
+            <element signature="e#5266#5491#0" expanded="false" />
+            <element signature="e#5300#5378#0" expanded="false" />
+            <element signature="n#TFile#0;n#!!top" expanded="false" />
+            <element signature="e#5563#5642#0" expanded="false" />
+            <element signature="e#5679#6189#0" expanded="false" />
+            <element signature="e#5731#6183#0" expanded="false" />
+            <element signature="e#5747#6175#1" expanded="false" />
+            <element signature="e#5761#5930#1" expanded="false" />
+            <element signature="e#5537#7458#1" expanded="false" />
+            <element signature="e#6291#7458#0" expanded="false" />
+            <element signature="e#6404#6882#0" expanded="false" />
+            <element signature="e#6697#6834#0" expanded="false" />
+            <element signature="e#6888#7048#0" expanded="false" />
+            <element signature="e#7116#7452#0" expanded="false" />
+            <element signature="e#7150#7342#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58925474" vertical-offset="0" max-vertical-offset="577">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding>
+            <element signature="e#160#271#0" expanded="false" />
+            <element signature="e#372#544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
